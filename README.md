@@ -1,6 +1,6 @@
 # 🏫 Datathon for Data-Driven Policy Innovation – IIIT Bangalore (2025)
 
-This repository contains my complete work for **Prompt 4** of the Datathon for Data-Driven Policy Innovation, conducted at **IIIT Bangalore**.  
+This repository contains complete work for the Datathon for Data-Driven Policy Innovation, conducted at **IIIT Bangalore**. ( i am responsible for prompt 4 )
 The goal was to leverage **UDISE+ (Unified District Information System for Education)** datasets to derive actionable, data-driven insights for education policy improvement.
 
 ---
